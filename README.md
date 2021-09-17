@@ -9,5 +9,5 @@
 
 具体效果点击查看上面👆🏻视频效果  
 <video id="video" controls="" preload="none">
-<source id="mp4" src="keepalive.mp4" type="video/mp4">
+<source id="mp4" src="https://raw.githubusercontent.com/yzytmac/KeepAliveCore/main/keepalive.mp4" type="video/mp4">
 </video>
