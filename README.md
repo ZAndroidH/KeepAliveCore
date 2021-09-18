@@ -7,7 +7,5 @@
 6. 支持Android11  
 7. 省电、省内存、省CPU  
 
-具体效果点击查看上面👆🏻视频效果  
-<video id="video" controls="" preload="none">
-<source id="mp4" src="https://raw.githubusercontent.com/yzytmac/KeepAliveCore/main/keepalive.mp4" type="video/mp4">
-</video>
+高清视频[keepalive.mp4](keepalive.mp4)  
+![](keepalive.gif)
